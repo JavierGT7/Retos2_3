@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Retos23</string>
+    <string name="guardar" />
+    <string name="usuario" />
+    <string name="login_app" />
+    <string name="password" />
+    <string name="login">Login</string>
+    <string name="contrase">contrase</string>
+</resources>
